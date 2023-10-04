@@ -1,1 +1,46 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-size: 18px;
+    color: #2D3748;
+}
 
+/* Header */
+header {
+    background-color: #63B3ED;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-image {
+    border-radius: 50%;
+    max-width: 150px;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Blog Post Titles */
+h2 {
+    font-size: 32px;
+    color: #48BB78;
+}
+
+/* Date and Author */
+p {
+    color: #718096;
+}
+
+/* Sidebar */
+aside {
+    background-color: #E2E8F0;
+    padding: 20px;
+}
+
+/* Sidebar Headings */
+h3 {
